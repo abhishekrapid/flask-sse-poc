@@ -1,0 +1,3 @@
+Flask-SSE==0.2.1
+gunicorn==20.1.0
+gevent==22.10.2
